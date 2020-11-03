@@ -7,11 +7,22 @@ public class Main {
 
         System.out.println("<<-- Ejemplo de Pila -->>\n\n");
 
+        pila.apilar(1);
+        pila.apilar(2);
+        pila.apilar(3);
         pila.apilar(4);
-        pila.apilar(16);
-        pila.apilar(12);
+        pila.apilar(5);
+        pila.apilar(6);
+        pila.apilar(7);
         pila.apilar(8);
-        pila.apilar(65);
+        pila.apilar(9);
+        pila.apilar(10);
+        pila.apilar(11);
+        pila.apilar(12);
+        pila.apilar(13);
+        pila.apilar(14);
+        pila.apilar(15);
+        pila.apilar(16);
 
         System.out.println("<<-- Pila -->>");
         pila.listar();

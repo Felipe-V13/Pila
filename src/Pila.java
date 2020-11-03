@@ -98,6 +98,7 @@ public class Pila {
         return existe;
     }
     /**
+     *
      * Elimina un nodo de la pila ubicado por su valor.
      * @param referencia valor de referencia para ubicar el nodo.
      */
